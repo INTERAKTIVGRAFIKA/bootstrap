@@ -2180,7 +2180,7 @@ textarea.input-lg {
     vertical-align: middle;
   }
   .form-inline .form-group > .form-control {
-    with: auto;
+    width: auto;
   }
   .form-inline .form-control {
     display: inline-block;
@@ -4615,7 +4615,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
     vertical-align: middle;
   }
   .navbar-form .form-group > .form-control {
-    with: auto;
+    width: auto;
   }
   .navbar-form .form-control {
     display: inline-block;
